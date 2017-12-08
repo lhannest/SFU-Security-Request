@@ -1,6 +1,6 @@
-# Team Delta Project
+# SFU Security Request
 
-This is the project for team Delta of CMPT 373's fall 2017 offering, and the latest version is hosted at http://cmpt373-1177d.cmpt.sfu.ca:8080.
+Developed by Lance Hannestad, Aidan Wessel, Carol-Anne Binnie, Harjot Lotey, SeongJin Kim (Jon Kim), Raymond Eng, Razvan Cretu, Tim Robertson.
 
 ## Setting up the Database
 
@@ -32,7 +32,7 @@ Build this application with [gradle](https://gradle.org/install/), and run the r
 On Linux you may do this in the terminal:
 ```
 $ gradle build
-$ java -jar build/libs/*.jar
+$ java -jar build/libs/*.war
 ```
 
 ## Intergration
